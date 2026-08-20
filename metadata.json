@@ -1,0 +1,10 @@
+{
+    "author": "HAWK Studio & Eventservice",
+    "email": "",
+    "website": "",
+    "version": "1.0",
+    "releaseDate": "2026-08-10",
+    "license": "MIT",
+    "compatible": "3.0",
+    "notes": "Theme mit Header-Akkordeon fuer Rubriken/Abteilungen, linker aufklappbarer Themenliste, rechtem Empfehlungs-Widget (z.B. fuer Rezepte/Videos), Nachrichtenfeed und zweispaltigem Footer."
+}
